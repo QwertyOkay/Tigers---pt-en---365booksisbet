@@ -1,19 +1,19 @@
-@import '../variables.css';
+@import "../variables.css";
 
 .cookieBar_cookieBar {
   background-color: var(--cookies-background-color);
-  padding: 10px;
+  padding: 25px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   position: fixed;
-  top: 10px;
-  left: 10vw;
+  bottom: 10px;
+  right: 10px;
   width: 25vw;
   z-index: 1000;
-  box-sizing: border-box; /* Ensures padding is included in the total width */
-  border-radius: 5px;
+  box-sizing: border-box;
+  border-radius: 50px;
 }
 
 .cookieBar_cookieBar p {
@@ -23,7 +23,7 @@
 }
 
 .cookieBar_cookieBar a {
-  color: var(--cookies-link-color);
+  color: #fff;
   text-decoration: none;
   font-weight: var(--cookies-link-font-weight);
 }
@@ -51,14 +51,14 @@
 /* Media Query for smaller devices */
 @media (max-width: 768px) {
   .cookieBar_cookieBar {
-    top: 10px;
+    top: 75%;
     left: 50%;
-    
-  width: 70vw;
+    width: 70vw;
     transform: translateX(-50%);
     flex-direction: column;
     align-items: center;
-    padding: 10px;
+    padding: 25px;
+    border-radius: 50px;
   }
 
   .cookieBar_cookieBar p {
