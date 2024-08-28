@@ -1,0 +1,91 @@
+/* ThankYou.css */
+body{
+    padding: 0;
+    margin: 0;
+    font-family:  "Roboto", sans-serif;
+}
+.thankYou_container {
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+    color: var(--text-dark-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  a{
+    text-decoration: none;
+  }
+  .thankYou_container h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #000; /* Assuming you have a header color variable */
+  }
+  
+  .thankYou_container p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: var(--text-dark-color); /* Assuming you have a text color variable */
+  }
+  
+  .thankYou_image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .thankYou_backButton {
+    padding: 10px 20px;
+    background-color: var(--button-primary-background-color); /* Use your primary button color */
+    color: var(--button-primary-text-color); /* Use your primary button text color */
+    font-size: 1.2em;
+    border: none;
+    border-radius: var(--button-border-radius); /* Use your standard border radius */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: 1px solid black;
+  }
+  
+  .thankYou_backButton:hover {
+    background-color: var(--button-primary-hover-background-color); /* Hover state */
+    color: var(--button-primary-hover-text-color); /* Hover text color */
+  }
+  :root {
+    /*general*/
+   --background-color: #fff;
+   --header-color: #fff;
+   --text-light-color: #ffffff;
+   --text-dark-color: #000;
+   --font-family:  "Roboto", sans-serif;
+    /*buttons*/
+   --button-primary-text-color: #000;
+   --button-secondary-text-color: #000;
+   --button-primary-background-color: #fff;
+   --button-secondary-background-color: #fff;
+   --button-primary-hover-background-color: #000;
+   --button-secondary-hover-background-color: #000;
+   --button-primary-hover-text-color: #fff;
+   --button-secondary-hover-text-color: #fff;
+   --button-font-weight: 550;
+   --button-border-radius: 0px;
+    /*placeholder*/
+    --placeholder-color: #999;
+    /*product badge*/
+    --badge-background-color: #000;
+    --badge-text-color: #fff;
+    --badge-border-radius: 0px;
+    --badge-font-weight: 550;
+    /*footer*/
+    --footer-background-color: #000;
+    --footer-link-color: #ffffff;
+    --footer-copy-color: #ffffff;
+    /*cookies*/
+    --cookies-background-color: #000;
+    --cookies-text-color: #ffffff;
+    --cookies-link-color: #000;
+    --cookies-copy-color: #000;
+    --cookies-link-font-weight: 550;
+ }
+ 

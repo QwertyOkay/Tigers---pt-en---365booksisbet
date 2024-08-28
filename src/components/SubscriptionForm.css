@@ -1,0 +1,39 @@
+.subscriptionForm_subscriptionForm {
+  margin: 20px 0;
+}
+
+.subscriptionForm_form {
+  display: flex;
+  flex-direction: column; /* Change to column to stack input and button */
+  justify-content: center;
+  align-items: center;
+}
+
+.subscriptionForm_emailInput {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px; /* Add margin below the input */
+  width: 100%; /* Full width */
+  max-width: 300px; /* Max width to keep it from being too wide */
+}
+
+.subscriptionForm_subscribeButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: var(--button-font-weight);
+  background-color: var(--button-secondary-background-color);
+  color: var(--button-secondary-text-color);
+  border: none;
+  border-radius: var(--button-border-radius);
+  cursor: pointer;
+  width: 100%; /* Full width */
+  max-width: 300px; /* Max width to keep it from being too wide */
+  border: 1px solid white;
+}
+
+.subscriptionForm_subscribeButton:hover {
+  background-color: var(--button-secondary-hover-background-color);
+  color: var(--button-secondary-hover-text-color);
+}

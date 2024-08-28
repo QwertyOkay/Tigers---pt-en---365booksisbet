@@ -1,0 +1,53 @@
+.modal_modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+
+}
+
+.modal_modal {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+  color: var(--text-dark-color);
+  
+}
+
+.modal_closeButton {
+  position: absolute;
+  top: -15px; /* Adjust to move the button up */
+  left: -15px; /* Adjust to move the button left */
+  background-color: var(--button-primary-background-color); /* Default color */
+  border: none;
+  color: var(--button-primary-text-color);
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0; /* Remove default padding */
+  box-sizing: border-box; /* Ensure padding and border are included in width and height */
+}
+
+.modal_closeButton:hover {
+  background-color: var(--button-primary-hover-background-color); 
+  color: var(--button-primary-hover-text-color);
+}
+
+.modal_modalContent {
+  margin-top: 20px;
+}

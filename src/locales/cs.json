@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "slogan": "Moda na każdą okazję",
+    "info": "Najświeższe trendy dostarczane prosto do Twojej garderoby.",
+    "orderNow": "Kup teraz",
+    "subscribeNow": "Zapisz się"
+  },
+  "home": {
+    "products": "Nasza kolekcja"
+  },
+  "cart": {
+    "title": "Twój koszyk",
+    "empty": "Twój koszyk jest obecnie pusty.",
+    "price": "Cena",
+    "quantity": "Ilość",
+    "subtotal": "Suma częściowa",
+    "checkout": "Przejdź do kasy",
+    "remove": "Usuń",
+    "reset": "Opróżnij koszyk"
+  },
+  "site": {
+    "slogan": "Moda dostarczana codziennie",
+    "info": "Twój ulubiony sklep internetowy z odzieżą, oferujący najnowsze trendy każdego dnia.",
+    "thankYouProduct": "Dziękujemy za dodanie tego produktu do koszyka!",
+    "thankYouSubscription": "Dziękujemy za zapisanie się do naszego newslettera.",
+    "thankYouOrder": "Dziękujemy za zamówienie. Wkrótce dostarczymy Twoje nowe ubrania.",
+    "address": "Ulica Mody 123, Miasto Stylu, Kraj Mody",
+    "phone": "+1234567890",
+    "email": "support@totalclothesonline.com"
+  },
+  "registration": {
+    "title": "Utwórz konto",
+    "nicknamePlaceholder": "Nazwa użytkownika",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Hasło",
+    "registerButton": "Zarejestruj się",
+    "thankYou": "Dziękujemy, {{nickname}}!",
+    "successMessage": "Rejestracja zakończona sukcesem."
+  },
+  "footer": {
+    "customerService": "Obsługa klienta",
+    "terms": "Regulamin",
+    "privacy": "Polityka prywatności",
+    "links": "Szybkie linki",
+    "contact": "Kontakt",
+    "home": "Strona główna",
+    "rightsReserved": "Wszelkie prawa zastrzeżone."
+  },
+  "subscription": {
+    "placeholder": "Wpisz swój adres e-mail",
+    "button": "Zapisz się",
+    "modalTitle": "Dziękujemy za zapisanie się!",
+    "modalMessage": "Jesteś teraz zapisany do otrzymywania najnowszych aktualizacji i ofert."
+  },
+  "product": {
+    "viewProduct": "Zobacz produkt"
+  },
+  "badge": {
+    "New": "Nowość",
+    "Sale": "Promocja",
+    "Exclusive": "Ekskluzywny"
+  },
+  "checkout": {
+    "completeYourOrder": "Zakończ zakupy",
+    "email": "Adres e-mail",
+    "submit": "Złóż zamówienie"
+  },
+  "cookieBar": {
+    "message": "Ta strona używa plików cookie, aby poprawić Twoje doświadczenia zakupowe. Kliknij 'Potwierdź', aby się zgodzić.",
+    "confirm": "Potwierdź",
+    "learnMore": "Dowiedz się więcej"
+  }
+}

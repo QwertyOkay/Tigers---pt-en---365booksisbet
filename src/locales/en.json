@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "slogan": "Fashion for Every Occasion",
+    "info": "The latest trends delivered right to your wardrobe.",
+    "orderNow": "Shop Now",
+     "subscribeNow": "Subscribe"
+  },
+  "home": {
+    "products": "Our Collection"
+  },
+  "cart": {
+    "title": "Your Shopping Cart",
+    "empty": "Your cart is currently empty.",
+    "price": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "reset": "Reset Cart"
+  },
+  "site": {
+    "slogan": "Fashion Delivered Daily",
+    "info": "Your favorite online clothing store, offering the latest trends every day.",
+    "thankYouProduct": "Thank you for adding this item to your cart!",
+    "thankYouSubscription": "Thank you for subscribing to our newsletter.",
+    "thankYouOrder": "Thank you for your order. We'll deliver your new wardrobe soon.",
+    "address": "123 Fashion Street, Style City, Fashion Country",
+    "phone": "+1234567890",
+    "email": "support@totalclothesonline.com"
+  },
+  "registration": {
+    "title": "Create an Account",
+    "nicknamePlaceholder": "Username",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "registerButton": "Sign Up",
+    "thankYou": "Thank You, {{nickname}}!",
+    "successMessage": "You have successfully registered."
+  },
+  "footer": {
+    "customerService": "Customer Service",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "links": "Quick Links",
+    "contact": "Contact Us",
+    "home": "Home",
+    "rightsReserved": "All rights reserved."
+  },
+  "subscription": {
+    "placeholder": "Enter your email address",
+    "button": "Subscribe",
+    "modalTitle": "Thank you for subscribing!",
+    "modalMessage": "You're now signed up for the latest updates and offers."
+  },
+  "product": {
+    "viewProduct": "View Item"
+  },
+  "badge": {
+    "New": "New Arrival",
+    "Sale": "On Sale",
+    "Exclusive": "Exclusive"
+  },
+  "checkout": {
+    "completeYourOrder": "Complete Your Purchase",
+    "email": "Email Address",
+    "submit": "Submit Order"
+  },
+  "cookieBar": {
+    "message": "This website uses cookies to enhance your shopping experience. Click 'Confirm' to agree.",
+    "confirm": "Confirm",
+    "learnMore": "Learn More"
+  }
+}

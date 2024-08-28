@@ -1,0 +1,40 @@
+.registrationForm_form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registrationForm_form input {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registrationForm_registerButton {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .registrationForm_registerButton:hover {
+    background-color: #555;
+  }
+  
+  .registrationForm_thankYouMessage {
+    text-align: center;
+  }
+  
+  .registrationForm_thankYouMessage h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .registrationForm_thankYouMessage p {
+    font-size: 18px;
+    color: #666;
+  }

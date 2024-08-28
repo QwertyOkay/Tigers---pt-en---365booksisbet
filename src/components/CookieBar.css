@@ -1,0 +1,72 @@
+@import '../variables.css';
+
+.cookieBar_cookieBar {
+  background-color: var(--cookies-background-color);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 10px;
+  left: 10vw;
+  width: 25vw;
+  z-index: 1000;
+  box-sizing: border-box; /* Ensures padding is included in the total width */
+  border-radius: 5px;
+}
+
+.cookieBar_cookieBar p {
+  margin: 0;
+  font-size: 1em; /* Smaller font size */
+  color: var(--cookies-text-color);
+}
+
+.cookieBar_cookieBar a {
+  color: var(--cookies-link-color);
+  text-decoration: none;
+  font-weight: var(--cookies-link-font-weight);
+}
+
+.cookieBar_cookieBar a:hover {
+  text-decoration: underline;
+}
+
+.cookieBar_confirmButton {
+  background-color: var(--button-secondary-background-color);
+  color: var(--button-secondary-text-color);
+  font-weight: var(--button-font-weight);
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.cookieBar_confirmButton:hover {
+  background-color: var(--button-secondary-hover-background-color);
+  color: var(--button-secondary-hover-text-color);
+}
+
+/* Media Query for smaller devices */
+@media (max-width: 768px) {
+  .cookieBar_cookieBar {
+    top: 10px;
+    left: 50%;
+    
+  width: 70vw;
+    transform: translateX(-50%);
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .cookieBar_cookieBar p {
+    margin-bottom: 10px; /* Add margin below paragraph */
+    text-align: center;
+  }
+
+  .cookieBar_confirmButton {
+    width: auto; /* Adjust button width */
+  }
+}
