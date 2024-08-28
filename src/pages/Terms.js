@@ -6,36 +6,37 @@ const Terms = () => {
   return (
     <>
       <div className="terms_termsInfo">
-        <h1>WARUNKI KORZYSTANIA Z USŁUGI</h1>
-        <p>Witamy na 365booksisbet.com! Uzyskując dostęp do naszych stron internetowych i korzystając z nich, zgadzasz się na przestrzeganie poniższych warunków. Jeśli się nie zgadzasz, prosimy o niekorzystanie z naszych stron.</p>
+        <h1>TERMOS DE USO DO SERVIÇO</h1>
+        <p>Bem-vindo ao 365booksisbet.com! Ao acessar e utilizar nossos sites, você concorda em cumprir os termos e condições abaixo. Caso não concorde, solicitamos que não utilize nossos sites.</p>
         
-        <h2>1. PRAWA WŁASNOŚCI INTELEKTUALNEJ</h2>
-        <p>Cała zawartość naszych stron internetowych, w tym teksty, grafiki, loga, ikony, obrazy i filmy, należy do 365booksisbet.com i jest chroniona prawami autorskimi oraz przepisami dotyczącymi własności intelektualnej. Nieautoryzowane użycie lub reprodukcja są surowo zabronione.</p>
+        <h2>1. DIREITOS DE PROPRIEDADE INTELECTUAL</h2>
+        <p>Todo o conteúdo de nossos sites, incluindo textos, gráficos, logotipos, ícones, imagens e vídeos, pertence ao 365booksisbet.com e é protegido por direitos autorais e leis de propriedade intelectual. O uso ou reprodução não autorizados são estritamente proibidos.</p>
         
-        <h2>2. DOZWOLONE UŻYTKOWANIE</h2>
-        <p>Nasze strony internetowe są przeznaczone wyłącznie do użytku osobistego, niekomercyjnego. Zawartości nie można zmieniać, dystrybuować ani reprodukować bez wyraźnej pisemnej zgody. Zabronione są działania, które mogą zagrozić funkcjonowaniu lub bezpieczeństwu naszych stron, takie jak wprowadzanie złośliwego oprogramowania.</p>
+        <h2>2. USO PERMITIDO</h2>
+        <p>Nossos sites são destinados exclusivamente para uso pessoal e não comercial. O conteúdo não pode ser modificado, distribuído ou reproduzido sem consentimento escrito explícito. Ações que possam comprometer o funcionamento ou a segurança dos nossos sites, como a introdução de software malicioso, são proibidas.</p>
         
-        <h2>3. DOKŁADNOŚĆ INFORMACJI</h2>
-        <p>Dokładamy starań, aby wszystkie informacje o produktach były dokładne. Nie możemy jednak zagwarantować, że wszystkie szczegóły są wolne od błędów. Zastrzegamy sobie prawo do poprawiania wszelkich nieścisłości w opisach produktów, cenach i dostępności bez wcześniejszego powiadomienia.</p>
+        <h2>3. PRECISÃO DAS INFORMAÇÕES</h2>
+        <p>Nos esforçamos para garantir que todas as informações sobre os produtos sejam precisas. No entanto, não podemos garantir que todos os detalhes estejam livres de erros. Reservamo-nos o direito de corrigir qualquer imprecisão nas descrições dos produtos, preços e disponibilidade sem aviso prévio.</p>
         
-        <h2>4. CENY I TRANSAKCJE</h2>
-        <p>Ceny podane na naszych stronach mogą ulec zmianie i są wyświetlane w odpowiedniej walucie. Oferujemy bezpieczne opcje płatności, a akceptowalne metody płatności są podane podczas procesu płatności.</p>
+        <h2>4. PREÇOS E TRANSAÇÕES</h2>
+        <p>Os preços exibidos em nossos sites estão sujeitos a alterações e são apresentados na moeda apropriada. Oferecemos opções de pagamento seguras, e os métodos de pagamento aceitos são indicados durante o processo de pagamento.</p>
         
-        <h2>5. ZAMÓWIENIA I ANULACJE</h2>
-        <p>Złożenie zamówienia stanowi ofertę zakupu, którą możemy przyjąć lub odrzucić. Zastrzegamy sobie prawo do anulowania zamówień z powodów takich jak niedostępność zapasów lub problemy z płatnością. Dotknięci klienci zostaną natychmiast poinformowani i otrzymają zwrot pieniędzy.</p>
+        <h2>5. PEDIDOS E CANCELAMENTOS</h2>
+        <p>Ao fazer um pedido, você está fazendo uma oferta de compra que podemos aceitar ou recusar. Reservamo-nos o direito de cancelar pedidos por razões como indisponibilidade de estoque ou problemas de pagamento. Os clientes afetados serão informados imediatamente e receberão um reembolso.</p>
         
-        <h2>6. WYSYŁKA I ZWROTY</h2>
-        <p>Oferujemy usługi wysyłkowe do różnych lokalizacji, z opłatami i czasem dostawy różniącymi się w zależności od metody i celu. Więcej informacji znajduje się w naszej szczegółowej polityce wysyłki i zwrotów.</p>
+        <h2>6. ENVIO E DEVOLUÇÕES</h2>
+        <p>Oferecemos serviços de envio para diversas localidades, com taxas e prazos de entrega que variam conforme o método e o destino. Mais informações podem ser encontradas em nossa política detalhada de envio e devoluções.</p>
         
-        <h2>7. LINKI ZEWNĘTRZNE</h2>
-        <p>Nasze strony internetowe mogą zawierać linki do zewnętrznych stron, które nie są przez nas obsługiwane. Nie ponosimy odpowiedzialności za zawartość ani praktyki ochrony prywatności na tych zewnętrznych stronach, dlatego należy zachować ostrożność podczas ich odwiedzania.</p>
+        <h2>7. LINKS EXTERNOS</h2>
+        <p>Nossos sites podem conter links para sites externos que não são operados por nós. Não somos responsáveis pelo conteúdo ou pelas práticas de privacidade desses sites externos, portanto, recomenda-se cautela ao visitá-los.</p>
         
-        <h2>8. OGRANICZENIE ODPOWIEDZIALNOŚCI</h2>
-        <p>365booksisbet.com ani jego podmioty powiązane nie ponoszą odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, przypadkowe, szczególne lub wynikające szkody powstałe w wyniku korzystania z naszych stron internetowych lub polegania na udostępnionych informacjach.</p>
+        <h2>8. LIMITAÇÃO DE RESPONSABILIDADE</h2>
+        <p>O 365booksisbet.com e suas afiliadas não serão responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais ou consequentes resultantes do uso de nossos sites ou da confiança nas informações fornecidas.</p>
         
-        <h2>9. AKCEPTACJA WARUNKÓW</h2>
-        <p>Warunki te mogą ulec zmianie bez wcześniejszego powiadomienia. Dalsze korzystanie z naszych stron po jakichkolwiek aktualizacjach oznacza akceptację zmienionych warunków. Jeśli masz jakiekolwiek pytania dotyczące tych warunków, skontaktuj się z nami pod adresem <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> lub według numeru +55 11 91234-5678.</p>
+        <h2>9. ACEITAÇÃO DOS TERMOS</h2>
+        <p>Estes termos podem ser alterados sem aviso prévio. O uso contínuo de nossos sites após quaisquer atualizações implica na aceitação dos termos revisados. Se você tiver alguma dúvida sobre esses termos, entre em contato conosco pelo e-mail <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> ou pelo número +55 11 91234-5678.</p>
       </div>
+
       <Footer3 />
     </>
   );

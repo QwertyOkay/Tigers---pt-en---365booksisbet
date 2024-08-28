@@ -10,10 +10,11 @@ body {
 .contact_contactInfo {
   max-width: 800px;
   margin: 50px auto;
-  padding: 20px;
+  padding: 20px 40px;
   background-color: #ffffff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
+  text-align: center;
 }
 
 .contact_contactInfo h1 {

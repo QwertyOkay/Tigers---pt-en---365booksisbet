@@ -19,7 +19,7 @@ const Footer3 = () => {
       </div>
  
       <div className="footer_footerCopyright">
-      365booksisbet.com 2024<br /> Wszelkie prawa zastrzeżone.
+      365booksisbet.com &copy; 2024<br /> Todos os direitos reservados.
       </div>
     </footer>
   );

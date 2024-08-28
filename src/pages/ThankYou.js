@@ -7,11 +7,11 @@ const ThankYou = () => {
   return (
     <>
       <div className="thankYou_container">
-        <h1>Dziękujemy za zakup!</h1>
-        <p>Twoje zamówienie zostało pomyślnie złożone. Dziękujemy za Twoją transakcję i życzymy udanych zakupów!</p>
-        <img src={thankYouImage} alt="Dziękujemy" className="thankYou_image" />
+        <h1>Obrigado pela sua compra!</h1>
+        <p>Seu pedido foi realizado com sucesso. Agradecemos pela sua transação e desejamos boas compras!</p>
+        <img src={thankYouImage} alt="Obrigado" className="thankYou_image" />
         <a href="/" className="thankYou_backButton">
-          Wróć do zakupów
+          Voltar às compras
         </a>
       </div>
       <Footer3 />
