@@ -40,7 +40,7 @@ const Product = () => {
 
   return (
     <div className="product_productContainer">
-      <h1>{i18n.language === 'en' ? 'THANK YOU FOR YOUR INTEREST' : 'DZIĘKUJEMY ZA ZAINTERESOWANIE'}</h1>
+      <h1>{i18n.language === 'en' ? 'THANK YOU FOR YOUR INTEREST' : 'OBRIGADO PELO SEU INTERESSE'}</h1>
       <div className="product_productDetails">
         <div className="product_productImage">
           <img src={product.image} alt={product.name} />
@@ -52,12 +52,12 @@ const Product = () => {
           </p>
           <p className="product_description">{product.description}</p>
 
-          {/* Quantity Selector */}
+        
           <div className="product_quantitySelector">
             <button 
               className="product_quantityButton" 
               onClick={() => handleQuantityChange(-1)}
-              disabled={quantity <= 0} // Disable decrement when quantity is 0
+              disabled={quantity <= 0}
             >
               -
             </button>
@@ -72,7 +72,7 @@ const Product = () => {
 
           <form className="product_orderForm" onSubmit={handleAddToCart}>
             <button type="submit" disabled={quantity === 0} className="product_addToCartButton">
-              {i18n.language === 'en' ? 'Add to Cart' : 'Dodaj do koszyka'}
+              {i18n.language === 'en' ? 'Add to Cart' : 'Adicionar ao carrinho'}
             </button>
           </form>
         </div>
