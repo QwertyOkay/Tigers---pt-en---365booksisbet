@@ -46,7 +46,7 @@ const Cart = ({ onClose }) => {
                         <div className="cart_cartItemDetails">
                           <h3>{product.name}</h3>
                           <p>{product.description}</p>
-                          <p>{t('cart.price')}: {item.price} PLN</p>
+                          <p>{t('cart.price')}: {item.price} BRL</p>
                           <p>{t('cart.quantity')}: {item.quantity}</p>
                           <button onClick={() => handleRemove(item.id)} className="cart_removeButton">
                             {t('cart.remove')}
@@ -57,7 +57,7 @@ const Cart = ({ onClose }) => {
                   })}
                 </ul>
                 <div className="cart_cartSummary">
-                  <p>{t('cart.subtotal')}: {getCartTotal()} PLN</p>
+                  <p>{t('cart.subtotal')}: {getCartTotal()} BRL</p>
                   <button className="cart_checkoutButton" onClick={handleCheckout}>
                     {t('cart.checkout')}
                   </button>

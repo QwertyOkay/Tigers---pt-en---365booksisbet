@@ -7,10 +7,10 @@ const Terms = () => {
     <>
       <div className="terms_termsInfo">
         <h1>WARUNKI KORZYSTANIA Z USŁUGI</h1>
-        <p>Witamy na TotalClothesOnline.com! Uzyskując dostęp do naszych stron internetowych i korzystając z nich, zgadzasz się na przestrzeganie poniższych warunków. Jeśli się nie zgadzasz, prosimy o niekorzystanie z naszych stron.</p>
+        <p>Witamy na 365booksisbet.com! Uzyskując dostęp do naszych stron internetowych i korzystając z nich, zgadzasz się na przestrzeganie poniższych warunków. Jeśli się nie zgadzasz, prosimy o niekorzystanie z naszych stron.</p>
         
         <h2>1. PRAWA WŁASNOŚCI INTELEKTUALNEJ</h2>
-        <p>Cała zawartość naszych stron internetowych, w tym teksty, grafiki, loga, ikony, obrazy i filmy, należy do TotalClothesOnline.com i jest chroniona prawami autorskimi oraz przepisami dotyczącymi własności intelektualnej. Nieautoryzowane użycie lub reprodukcja są surowo zabronione.</p>
+        <p>Cała zawartość naszych stron internetowych, w tym teksty, grafiki, loga, ikony, obrazy i filmy, należy do 365booksisbet.com i jest chroniona prawami autorskimi oraz przepisami dotyczącymi własności intelektualnej. Nieautoryzowane użycie lub reprodukcja są surowo zabronione.</p>
         
         <h2>2. DOZWOLONE UŻYTKOWANIE</h2>
         <p>Nasze strony internetowe są przeznaczone wyłącznie do użytku osobistego, niekomercyjnego. Zawartości nie można zmieniać, dystrybuować ani reprodukować bez wyraźnej pisemnej zgody. Zabronione są działania, które mogą zagrozić funkcjonowaniu lub bezpieczeństwu naszych stron, takie jak wprowadzanie złośliwego oprogramowania.</p>
@@ -31,10 +31,10 @@ const Terms = () => {
         <p>Nasze strony internetowe mogą zawierać linki do zewnętrznych stron, które nie są przez nas obsługiwane. Nie ponosimy odpowiedzialności za zawartość ani praktyki ochrony prywatności na tych zewnętrznych stronach, dlatego należy zachować ostrożność podczas ich odwiedzania.</p>
         
         <h2>8. OGRANICZENIE ODPOWIEDZIALNOŚCI</h2>
-        <p>TotalClothesOnline.com ani jego podmioty powiązane nie ponoszą odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, przypadkowe, szczególne lub wynikające szkody powstałe w wyniku korzystania z naszych stron internetowych lub polegania na udostępnionych informacjach.</p>
+        <p>365booksisbet.com ani jego podmioty powiązane nie ponoszą odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, przypadkowe, szczególne lub wynikające szkody powstałe w wyniku korzystania z naszych stron internetowych lub polegania na udostępnionych informacjach.</p>
         
         <h2>9. AKCEPTACJA WARUNKÓW</h2>
-        <p>Warunki te mogą ulec zmianie bez wcześniejszego powiadomienia. Dalsze korzystanie z naszych stron po jakichkolwiek aktualizacjach oznacza akceptację zmienionych warunków. Jeśli masz jakiekolwiek pytania dotyczące tych warunków, skontaktuj się z nami pod adresem <a href="mailto:info@totalclothesonline.com">info@totalclothesonline.com</a> lub według numeru +48 22 827 73 82.</p>
+        <p>Warunki te mogą ulec zmianie bez wcześniejszego powiadomienia. Dalsze korzystanie z naszych stron po jakichkolwiek aktualizacjach oznacza akceptację zmienionych warunków. Jeśli masz jakiekolwiek pytania dotyczące tych warunków, skontaktuj się z nami pod adresem <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> lub według numeru +48 22 827 73 82.</p>
       </div>
       <Footer3 />
     </>

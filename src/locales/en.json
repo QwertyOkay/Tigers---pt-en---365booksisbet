@@ -1,72 +1,72 @@
 {
   "hero": {
-    "slogan": "Fashion for Every Occasion",
-    "info": "The latest trends delivered right to your wardrobe.",
-    "orderNow": "Shop Now",
-     "subscribeNow": "Subscribe"
+    "slogan": "Books for Every Occasion",
+    "info": "The freshest literary trends, delivered straight to your bookshelf.",
+    "orderNow": "Buy Now",
+    "subscribeNow": "Subscribe Now"
   },
   "home": {
-    "products": "Our Collection"
+    "products": "Our Book Collection"
   },
   "cart": {
-    "title": "Your Shopping Cart",
+    "title": "Your Cart",
     "empty": "Your cart is currently empty.",
     "price": "Price",
     "quantity": "Quantity",
     "subtotal": "Subtotal",
     "checkout": "Proceed to Checkout",
     "remove": "Remove",
-    "reset": "Reset Cart"
+    "reset": "Empty Cart"
   },
   "site": {
-    "slogan": "Fashion Delivered Daily",
-    "info": "Your favorite online clothing store, offering the latest trends every day.",
-    "thankYouProduct": "Thank you for adding this item to your cart!",
+    "slogan": "Literature Delivered Daily",
+    "info": "Your favorite online bookstore, offering the latest literary trends every day.",
+    "thankYouProduct": "Thank you for adding this book to your cart!",
     "thankYouSubscription": "Thank you for subscribing to our newsletter.",
-    "thankYouOrder": "Thank you for your order. We'll deliver your new wardrobe soon.",
-    "address": "123 Fashion Street, Style City, Fashion Country",
+    "thankYouOrder": "Thank you for your order. We will deliver your new books soon.",
+    "address": "123 Literature Street, Book City, Reading Country",
     "phone": "+1234567890",
-    "email": "support@totalclothesonline.com"
+    "email": "support@totalbooks.com"
   },
   "registration": {
-    "title": "Create an Account",
+    "title": "Create Your Account",
     "nicknamePlaceholder": "Username",
     "emailPlaceholder": "Email",
     "passwordPlaceholder": "Password",
     "registerButton": "Sign Up",
-    "thankYou": "Thank You, {{nickname}}!",
-    "successMessage": "You have successfully registered."
+    "thankYou": "Thank you, {{nickname}}!",
+    "successMessage": "Registration successful."
   },
   "footer": {
     "customerService": "Customer Service",
-    "terms": "Terms & Conditions",
+    "terms": "Terms and Conditions",
     "privacy": "Privacy Policy",
     "links": "Quick Links",
-    "contact": "Contact Us",
+    "contact": "Contact",
     "home": "Home",
     "rightsReserved": "All rights reserved."
   },
   "subscription": {
     "placeholder": "Enter your email address",
-    "button": "Subscribe",
-    "modalTitle": "Thank you for subscribing!",
-    "modalMessage": "You're now signed up for the latest updates and offers."
+    "button": "Sign Up",
+    "modalTitle": "Thank You for Signing Up!",
+    "modalMessage": "You are now subscribed to receive the latest updates and offers."
   },
   "product": {
-    "viewProduct": "View Item"
+    "viewProduct": "View Book"
   },
   "badge": {
-    "New": "New Arrival",
-    "Sale": "On Sale",
+    "New": "New",
+    "Sale": "Sale",
     "Exclusive": "Exclusive"
   },
   "checkout": {
-    "completeYourOrder": "Complete Your Purchase",
+    "completeYourOrder": "Complete Your Order",
     "email": "Email Address",
-    "submit": "Submit Order"
+    "submit": "Place Order"
   },
   "cookieBar": {
-    "message": "This website uses cookies to enhance your shopping experience. Click 'Confirm' to agree.",
+    "message": "This site uses cookies to improve your shopping experience. Click 'Confirm' to accept.",
     "confirm": "Confirm",
     "learnMore": "Learn More"
   }

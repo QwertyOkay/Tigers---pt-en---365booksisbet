@@ -10,13 +10,13 @@ const ContactEn = () => {
         <p>If you have any questions, feel free to reach out to us!</p>
         
         <h2>Address</h2>
-        <p>TotalClothesOnline.com<br />22 Nowy Świat Street<br />00-001 Warsaw, Poland</p>
+        <p>365booksisbet.com<br />22 Nowy Świat Street<br />00-001 Warsaw, Poland</p>
         
         <h2>Phone</h2>
         <p>+48 22 827 73 82</p>
         
         <h2>Email</h2>
-        <p><a href="mailto:info@totalclothesonline.com">info@totalclothesonline.com</a></p>
+        <p><a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a></p>
         
         <h2>Our Location</h2>
         <p>We are located in the heart of Warsaw on Nowy Świat Street, easily accessible by public transportation.</p>

@@ -1,4 +1,4 @@
-@import '../variables.css';
+@import "../variables.css";
 
 .home_container {
   padding: 20px 10%;
@@ -13,13 +13,16 @@
 
 .home_grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 30px;
 }
 
 @media (max-width: 900px) {
   .home_grid {
-    grid-template-columns: repeat(2, 1fr); /* Two items per row on medium devices */
+    grid-template-columns: repeat(
+      2,
+      1fr
+    ); /* Two items per row on medium devices */
   }
   .home_container {
     padding: 20px 2%;

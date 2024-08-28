@@ -57,7 +57,7 @@ export const SiteProvider = ({ children }) => {
   };
 
   const siteInfo = {
-    siteName: "TotalClothesOnline",
+    siteName: "365booksisbet.com",
     slogan: t('site.slogan', 'Moda na każdą okazję'), // Translated slogan
     info: t('site.info', 'Twój ulubiony sklep z odzieżą online oferujący najnowsze trendy każdego dnia.'), // Translated info
     thankYouProduct: t('site.thankYouProduct', 'Dziękujemy za dodanie tego produktu do koszyka!'), // Translated thank you product message
@@ -65,7 +65,7 @@ export const SiteProvider = ({ children }) => {
     thankYouOrder: t('site.thankYouOrder', 'Dziękujemy za zamówienie! Wkrótce dostarczymy Twoje zakupy.'), // Translated thank you order message
     address: t('site.address', '123 Ulica Mody, Modne Miasto, Polska'), // Translated address
     phone: t('site.phone', '+48-123-456-789'), // Phone number (usually not translated)
-    email: t('site.email', 'support@totalclothesonline.com'), // Email (usually not translated)
+    email: t('site.email', 'support@365booksisbet.com'), // Email (usually not translated)
     mapIframe: "<iframe src='https://www.google.com/maps/embed?...'></iframe>", // Replace with your actual map iframe code
     cart,
     addToCart,

@@ -17,7 +17,7 @@
 }
 
 .productCard_badge {
-  align-self: flex-start; /* Align badge to the left */
+  align-self: flex-end; /* Align badge to the left */
   background-color: var(--badge-background-color);
   color: var(--badge-text-color);
   padding: 5px 10px;
@@ -34,9 +34,11 @@
 }
 
 .productCard_image {
-  width: 100%;
+  width: 60%;
   height: 50vh;
   object-fit: cover;
+  margin: 0px auto;
+  display: flex;
 }
 
 @media (min-width: 480px) and (max-width: 900px) {
@@ -68,7 +70,7 @@
   background-color: var(--button-primary-background-color);
   font-weight: var(--button-font-weight);
   border: none;
-  border-radius: var(--button-border-radius);
+  border-radius: 50px;
   text-decoration: none;
   cursor: pointer;
   transition: background-color 0.3s ease;

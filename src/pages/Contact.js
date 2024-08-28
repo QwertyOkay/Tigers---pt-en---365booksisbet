@@ -10,13 +10,13 @@ const Contact = () => {
         <p>Jeśli masz jakiekolwiek pytania, nie wahaj się z nami skontaktować!</p>
         
         <h2>Adres</h2>
-        <p>TotalClothesOnline.com<br />ul. Nowy Świat 22<br />00-001 Warszawa, Polska</p>
+        <p>365booksisbet.com<br />ul. Nowy Świat 22<br />00-001 Warszawa, Polska</p>
         
         <h2>Telefon</h2>
         <p>+48 22 827 73 82</p>
         
         <h2>Email</h2>
-        <p><a href="mailto:info@totalclothesonline.com">info@totalclothesonline.com</a></p>
+        <p><a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a></p>
         
         <h2>Nasza lokalizacja</h2>
         <p>Znajdujemy się w centrum Warszawy na ulicy Nowy Świat, łatwo dostępnej dzięki komunikacji miejskiej.</p>

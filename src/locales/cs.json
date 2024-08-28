@@ -1,73 +1,73 @@
 {
   "hero": {
-    "slogan": "Moda na każdą okazję",
-    "info": "Najświeższe trendy dostarczane prosto do Twojej garderoby.",
-    "orderNow": "Kup teraz",
-    "subscribeNow": "Zapisz się"
+    "slogan": "Livros para toda ocasião",
+    "info": "As tendências literárias mais frescas, direto para a sua estante.",
+    "orderNow": "Compre agora",
+    "subscribeNow": "Assine agora"
   },
   "home": {
-    "products": "Nasza kolekcja"
+    "products": "Nossa coleção de livros"
   },
   "cart": {
-    "title": "Twój koszyk",
-    "empty": "Twój koszyk jest obecnie pusty.",
-    "price": "Cena",
-    "quantity": "Ilość",
-    "subtotal": "Suma częściowa",
-    "checkout": "Przejdź do kasy",
-    "remove": "Usuń",
-    "reset": "Opróżnij koszyk"
+    "title": "Seu carrinho",
+    "empty": "Seu carrinho está vazio no momento.",
+    "price": "Preço",
+    "quantity": "Quantidade",
+    "subtotal": "Subtotal",
+    "checkout": "Finalizar compra",
+    "remove": "Remover",
+    "reset": "Esvaziar carrinho"
   },
   "site": {
-    "slogan": "Moda dostarczana codziennie",
-    "info": "Twój ulubiony sklep internetowy z odzieżą, oferujący najnowsze trendy każdego dnia.",
-    "thankYouProduct": "Dziękujemy za dodanie tego produktu do koszyka!",
-    "thankYouSubscription": "Dziękujemy za zapisanie się do naszego newslettera.",
-    "thankYouOrder": "Dziękujemy za zamówienie. Wkrótce dostarczymy Twoje nowe ubrania.",
-    "address": "Ulica Mody 123, Miasto Stylu, Kraj Mody",
+    "slogan": "Literatura entregue diariamente",
+    "info": "Sua livraria online favorita, oferecendo as últimas novidades literárias todos os dias.",
+    "thankYouProduct": "Obrigado por adicionar este livro ao seu carrinho!",
+    "thankYouSubscription": "Obrigado por se inscrever em nosso boletim informativo.",
+    "thankYouOrder": "Obrigado pelo seu pedido. Em breve entregaremos seus novos livros.",
+    "address": "Rua da Literatura 123, Cidade dos Livros, País da Leitura",
     "phone": "+1234567890",
-    "email": "support@totalclothesonline.com"
+    "email": "suporte@totalbooks.com"
   },
   "registration": {
-    "title": "Utwórz konto",
-    "nicknamePlaceholder": "Nazwa użytkownika",
+    "title": "Crie sua conta",
+    "nicknamePlaceholder": "Nome de usuário",
     "emailPlaceholder": "E-mail",
-    "passwordPlaceholder": "Hasło",
-    "registerButton": "Zarejestruj się",
-    "thankYou": "Dziękujemy, {{nickname}}!",
-    "successMessage": "Rejestracja zakończona sukcesem."
+    "passwordPlaceholder": "Senha",
+    "registerButton": "Registrar-se",
+    "thankYou": "Obrigado, {{nickname}}!",
+    "successMessage": "Cadastro realizado com sucesso."
   },
   "footer": {
-    "customerService": "Obsługa klienta",
-    "terms": "Regulamin",
-    "privacy": "Polityka prywatności",
-    "links": "Szybkie linki",
-    "contact": "Kontakt",
-    "home": "Strona główna",
-    "rightsReserved": "Wszelkie prawa zastrzeżone."
+    "customerService": "Atendimento ao cliente",
+    "terms": "Termos e condições",
+    "privacy": "Política de privacidade",
+    "links": "Links rápidos",
+    "contact": "Contato",
+    "home": "Página inicial",
+    "rightsReserved": "Todos os direitos reservados."
   },
   "subscription": {
-    "placeholder": "Wpisz swój adres e-mail",
-    "button": "Zapisz się",
-    "modalTitle": "Dziękujemy za zapisanie się!",
-    "modalMessage": "Jesteś teraz zapisany do otrzymywania najnowszych aktualizacji i ofert."
+    "placeholder": "Digite seu endereço de e-mail",
+    "button": "Inscrever-se",
+    "modalTitle": "Obrigado por se inscrever!",
+    "modalMessage": "Agora você está inscrito para receber as últimas atualizações e ofertas."
   },
   "product": {
-    "viewProduct": "Zobacz produkt"
+    "viewProduct": "Ver livro"
   },
   "badge": {
-    "New": "Nowość",
-    "Sale": "Promocja",
-    "Exclusive": "Ekskluzywny"
+    "New": "Novo",
+    "Sale": "Promoção",
+    "Exclusive": "Exclusivo"
   },
   "checkout": {
-    "completeYourOrder": "Zakończ zakupy",
-    "email": "Adres e-mail",
-    "submit": "Złóż zamówienie"
+    "completeYourOrder": "Complete seu pedido",
+    "email": "Endereço de e-mail",
+    "submit": "Fazer pedido"
   },
   "cookieBar": {
-    "message": "Ta strona używa plików cookie, aby poprawić Twoje doświadczenia zakupowe. Kliknij 'Potwierdź', aby się zgodzić.",
-    "confirm": "Potwierdź",
-    "learnMore": "Dowiedz się więcej"
+    "message": "Este site usa cookies para melhorar sua experiência de compra. Clique em 'Confirmar' para aceitar.",
+    "confirm": "Confirmar",
+    "learnMore": "Saiba mais"
   }
 }

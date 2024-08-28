@@ -6,9 +6,9 @@ import './ProductCard.css';
 const ProductCard = ({ product }) => {
   const { t } = useTranslation();
 
-  // Format the price with 'PLN' instead of the symbol 'zł'
+  // Format the price with 'BRL' instead of the symbol 'zł'
   const formatPrice = (price) => {
-    return `${Number(price).toFixed(2)} PLN`; // Convert to number and format as "XX.XX PLN"
+    return `${Number(price).toFixed(2)} BRL`; // Convert to number and format as "XX.XX BRL"
   };
 
   return (

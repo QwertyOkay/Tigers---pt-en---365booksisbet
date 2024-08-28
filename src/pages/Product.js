@@ -48,7 +48,7 @@ const Product = () => {
         <div className="product_productInfo">
           <h2>{product.name}</h2>
           <p className="product_price">
-            {i18n.language === 'en' ? 'PLN' : 'PLN'} {product.price}
+            {i18n.language === 'en' ? 'BRL' : 'BRL'} {product.price}
           </p>
           <p className="product_description">{product.description}</p>
 

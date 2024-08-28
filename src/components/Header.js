@@ -44,25 +44,31 @@ const Header = () => {
   return (
     <header className="header_header">
       <div className="header_leftContainer">
-        <div className="header_langSwitcher">
-          <button onClick={() => changeLanguage('cs')}>PL</button>
-          <button onClick={() => changeLanguage('en')}>EN</button>
-        </div>
+
+        <button onClick={toggleRegister} className="header_iconButton">
+        <img src={registerIcon} alt='Reg'></img> 
+        </button>
+        <button onClick={toggleCart} className="header_cartButton">
+          <img src={cartIcon} alt='Cart'></img> <span className="header_cartCount">{totalItems}</span>
+        </button>
+
+        
+
       </div>
 
       <div className="header_logoContainer">
-        <Link to="/">
-         TOTAL CLOTHES ONLINE
+        <Link to="/" className="header_logo">
+         365booksisbet
         </Link>
       </div>
 
       <div className="header_rightContainer">
-        <button onClick={toggleRegister} className="header_iconButton">
-        <img src={registerIcon}></img> 
-        </button>
-        <button onClick={toggleCart} className="header_cartButton">
-          <img src={cartIcon}></img> <span className="header_cartCount">{totalItems}</span>
-        </button>
+
+        <div className="header_langSwitcher">
+          <button onClick={() => changeLanguage('cs')}>PT</button>
+          <button onClick={() => changeLanguage('en')}>EN</button>
+        </div>
+
       </div>
 
       {isCartOpen && <Cart onClose={toggleCart} />}

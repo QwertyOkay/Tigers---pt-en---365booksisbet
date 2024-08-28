@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer2.css';
-import SubscriptionForm from './SubscriptionForm';
+// import SubscriptionForm from './SubscriptionForm';
 import { useSite } from '../context/SiteContext';
 
 import { useTranslation } from 'react-i18next';
@@ -22,9 +22,9 @@ const Footer = () => {
 
   return (
     <footer className="footer_footer">
-       <div id="subscribe-section">
+       {/* <div id="subscribe-section">
       <SubscriptionForm />
-      </div>
+      </div> */}
       <div className="footer_linksContainer">
         
         <div className="footer_category">
