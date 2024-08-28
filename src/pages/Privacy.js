@@ -6,38 +6,39 @@ const Privacy = () => {
   return (
     <>
       <div className="privacy_privacyInfo">
-        <h1>ZÁVAZEK K SOUKROMÍ</h1>
-        <p>Na OnlineCloathsCas.com klademe velký důraz na vaše soukromí a bezpečnost vašich informací. Tento dokument vysvětluje náš závazek chránit vaše data a vysvětluje praktiky, které přijímáte používáním našich služeb a webových stránek.</p>
+    <h1>COMPROMISSO COM A PRIVACIDADE</h1>
+    <p>No 365booksisbet.com, damos grande importância à sua privacidade e à segurança de suas informações. Este documento explica nosso compromisso em proteger seus dados e detalha as práticas que você aceita ao usar nossos serviços e site.</p>
 
-        <h2>1. SBĚR INFORMACÍ</h2>
-        <p><strong>Osobní údaje:</strong> Během transakcí shromažďujeme nezbytné údaje, jako je vaše jméno, e-mailová adresa, poštovní adresa a platební informace.</p>
-        <p><strong>Údaje o interakci:</strong> Sledujeme vaši aktivitu na našich webových stránkách pomocí technologií, jako jsou soubory cookie, a zaznamenáváme vaši IP adresu a typ prohlížeče.</p>
+    <h2>1. COLETA DE INFORMAÇÕES</h2>
+    <p><strong>Dados Pessoais:</strong> Durante as transações, coletamos informações essenciais, como seu nome, endereço de e-mail, endereço postal e informações de pagamento.</p>
+    <p><strong>Dados de Interação:</strong> Monitoramos sua atividade em nosso site usando tecnologias como cookies e registramos seu endereço IP e tipo de navegador.</p>
 
-        <h2>2. POUŽÍVÁNÍ INFORMACÍ</h2>
-        <p><strong>Zpracování transakcí:</strong> Vaše osobní údaje používáme k řízení a plnění objednávek a k udržování komunikace během procesu transakce.</p>
-        <p><strong>Komunikace:</strong> Vaše kontaktní údaje využíváme k zasílání potvrzení objednávek a aktualizací.</p>
-        <p><strong>Přizpůsobení:</strong> S vaším souhlasem přizpůsobujeme váš zážitek na webových stránkách na základě vašich předchozích interakcí a preferencí.</p>
-        <p><strong>Zlepšení služeb:</strong> Analyzujeme shromážděná data, abychom neustále zlepšovali naše webové stránky a služby.</p>
+    <h2>2. USO DAS INFORMAÇÕES</h2>
+    <p><strong>Processamento de Transações:</strong> Usamos seus dados pessoais para gerenciar e concluir pedidos e manter a comunicação durante o processo de transação.</p>
+    <p><strong>Comunicação:</strong> Utilizamos seus dados de contato para enviar confirmações de pedidos e atualizações.</p>
+    <p><strong>Personalização:</strong> Com seu consentimento, personalizamos sua experiência no site com base em suas interações e preferências anteriores.</p>
+    <p><strong>Melhoria de Serviços:</strong> Analisamos os dados coletados para melhorar continuamente nossos sites e serviços.</p>
 
-        <h2>3. ZVEŘEJŇOVÁNÍ INFORMACÍ</h2>
-        <p><strong>Obchodní operace:</strong> Vaše údaje mohou být sdíleny s poskytovateli služeb třetích stran na základě přísných smluv o ochraně soukromí, aby pomohli s operacemi, jako je logistika a zpracování plateb.</p>
-        <p><strong>Právní povinnosti:</strong> Vaše informace můžeme zveřejnit, pokud to vyžaduje zákon k ochraně našich práv, zajištění bezpečnosti našich služeb nebo ochraně veřejné bezpečnosti.</p>
+    <h2>3. DIVULGAÇÃO DE INFORMAÇÕES</h2>
+    <p><strong>Operações Comerciais:</strong> Suas informações podem ser compartilhadas com prestadores de serviços terceirizados sob rigorosos contratos de privacidade para auxiliar em operações como logística e processamento de pagamentos.</p>
+    <p><strong>Obrigações Legais:</strong> Podemos divulgar suas informações quando exigido por lei para proteger nossos direitos, garantir a segurança de nossos serviços ou proteger a segurança pública.</p>
 
-        <h2>4. BEZPEČNOSTNÍ OPATŘENÍ</h2>
-        <p>Naše bezpečnostní protokoly jsou navrženy tak, aby chránily vaše osobní údaje před neoprávněným přístupem a zneužitím. Upozorňujeme však, že přenos informací online je spojen s určitými riziky.</p>
+    <h2>4. MEDIDAS DE SEGURANÇA</h2>
+    <p>Nossos protocolos de segurança são projetados para proteger seus dados pessoais contra acesso não autorizado e uso indevido. No entanto, destacamos que a transmissão de informações online envolve certos riscos.</p>
 
-        <h2>5. VAŠE VOLBY TÝKAJÍCÍ SE SOUKROMÍ</h2>
-        <p><strong>Odhlášení z marketingu:</strong> Můžete se kdykoli odhlásit z přijímání marketingových zpráv pomocí odkazů v našich komunikacích nebo kontaktováním nás přímo.</p>
-        <p><strong>Soubory cookie:</strong> Spravujte své preference týkající se souborů cookie prostřednictvím nastavení vašeho webového prohlížeče.</p>
+    <h2>5. SUAS ESCOLHAS RELACIONADAS À PRIVACIDADE</h2>
+    <p><strong>Cancelamento de Marketing:</strong> Você pode optar por não receber mensagens de marketing a qualquer momento usando os links em nossas comunicações ou nos contatando diretamente.</p>
+    <p><strong>Cookies:</strong> Gerencie suas preferências relacionadas aos cookies através das configurações do seu navegador.</p>
 
-        <h2>6. BEZPEČNOST DĚTÍ</h2>
-        <p>Neúmyslně neshromažďujeme údaje od osob mladších 16 let. Jakékoli neúmyslně shromážděné informace budou okamžitě odstraněny z našich systémů.</p>
+    <h2>6. SEGURANÇA INFANTIL</h2>
+    <p>Não coletamos intencionalmente dados de pessoas menores de 16 anos. Quaisquer informações coletadas inadvertidamente serão imediatamente removidas de nossos sistemas.</p>
 
-        <h2>7. AKTUALIZACE ZÁSAD</h2>
-        <p>Pravidelně aktualizujeme naše Zásady ochrany soukromí, abychom odráželi nové postupy. Doporučujeme pravidelnou kontrolu zásad, protože další používání našich služeb po aktualizaci znamená souhlas se změnami.</p>
+    <h2>7. ATUALIZAÇÕES DAS POLÍTICAS</h2>
+    <p>Atualizamos regularmente nossas Políticas de Privacidade para refletir novas práticas. Recomendamos a revisão periódica das políticas, pois o uso continuado de nossos serviços após as atualizações significa a aceitação das mudanças.</p>
 
-        <p>Pro dotazy nebo více informací o našich postupech ochrany soukromí nás prosím kontaktujte na <a href="mailto:info@onlinecloathscas.com">info@onlinecloathscas.com</a> lub według numeru +48 22 827 73 82. Jsme odhodláni rychle reagovat na vaše obavy a chránit vaše práva na soukromí.</p>
-      </div>
+    <p>Para dúvidas ou mais informações sobre nossas práticas de privacidade, por favor, entre em contato conosco através do e-mail <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> ou pelo número +55 11 91234-5678. Estamos comprometidos em responder rapidamente às suas preocupações e proteger seus direitos à privacidade.</p>
+</div>
+
       <Footer3 />
     </>
   );

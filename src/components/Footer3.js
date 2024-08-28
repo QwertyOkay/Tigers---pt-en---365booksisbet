@@ -8,13 +8,13 @@ const Footer3 = () => {
       <div className="footer_linksContainer">
         <div className="footer_category">
           <h3>Obsługa Klienta</h3>
-          <a href="/terms.html" className="footer_footerLink">Regulamin</a>
-          <a href="/privacy.html" className="footer_footerLink">Polityka prywatności</a>
+          <a href="/privacy.html" className="footer_footerLink">Política de privacidade</a>
+           <a href="/terms.html" className="footer_footerLink">Termos e condições</a>
         </div>
         <div className="footer_category">
           <h3>Linki</h3>
-          <a href="./contact.html" className="footer_footerLink">Kontakt</a>
-          <a href="/en" className="footer_footerLink">Strona główna</a>
+          <a href="/en" className="footer_footerLink">Página inicial</a>
+           <a href="./contact.html" className="footer_footerLink">Contato</a>
         </div>
       </div>
  

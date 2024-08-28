@@ -30,20 +30,20 @@ const Footer = () => {
         <div className="footer_category">
           
           <h3>{t('footer.customerService')}</h3>
-          <a href={getLocalizedPath('/terms.html')} className="footer_footerLink">
-            {t('footer.terms')}
-          </a>
           <a href={getLocalizedPath('/privacy.html')} className="footer_footerLink">
             {t('footer.privacy')}
+          </a>
+          <a href={getLocalizedPath('/terms.html')} className="footer_footerLink">
+            {t('footer.terms')}
           </a>
         </div>
         <div className="footer_category">
           <h3>{t('footer.links')}</h3>
-          <a href={getLocalizedPath('/contact.html')} className="footer_footerLink">
-            {t('footer.contact')}
-          </a>
           <a href={getLocalizedPath('/')} className="footer_footerLink">
             {t('footer.home')}
+          </a>
+          <a href={getLocalizedPath('/contact.html')} className="footer_footerLink">
+            {t('footer.contact')}
           </a>
         </div>
       </div>

@@ -34,7 +34,7 @@ const Terms = () => {
         <p>365booksisbet.com ani jego podmioty powiązane nie ponoszą odpowiedzialności za jakiekolwiek bezpośrednie, pośrednie, przypadkowe, szczególne lub wynikające szkody powstałe w wyniku korzystania z naszych stron internetowych lub polegania na udostępnionych informacjach.</p>
         
         <h2>9. AKCEPTACJA WARUNKÓW</h2>
-        <p>Warunki te mogą ulec zmianie bez wcześniejszego powiadomienia. Dalsze korzystanie z naszych stron po jakichkolwiek aktualizacjach oznacza akceptację zmienionych warunków. Jeśli masz jakiekolwiek pytania dotyczące tych warunków, skontaktuj się z nami pod adresem <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> lub według numeru +48 22 827 73 82.</p>
+        <p>Warunki te mogą ulec zmianie bez wcześniejszego powiadomienia. Dalsze korzystanie z naszych stron po jakichkolwiek aktualizacjach oznacza akceptację zmienionych warunków. Jeśli masz jakiekolwiek pytania dotyczące tych warunków, skontaktuj się z nami pod adresem <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> lub według numeru +55 11 91234-5678.</p>
       </div>
       <Footer3 />
     </>

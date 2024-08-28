@@ -1,3 +1,7 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
 .footer_footer {
   background-color: var(--footer-background-color);
   padding: 0;
@@ -71,7 +75,7 @@
 @media (max-width: 900px) {
   .footer_footer {
     width: 100vw;
-    padding: 0;
+    /* padding: 20; */
   }
   .footer_linksContainer {
     flex-direction: column;
@@ -90,7 +94,7 @@
   --header-color: #fff;
   --text-light-color: #ffffff;
   --text-dark-color: #000;
-  --font-family: "Roboto", sans-serif;
+  font-family: "Open Sans", sans-serif;
   /*buttons*/
   --button-primary-text-color: #000;
   --button-secondary-text-color: #000;

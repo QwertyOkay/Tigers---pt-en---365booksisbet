@@ -7,10 +7,10 @@ const TermsEn = () => {
     <>
       <div className="terms_termsInfo">
         <h1>TERMS OF SERVICE</h1>
-        <p>Welcome to OnlineCloathsCas.com! By accessing and using our website, you agree to comply with the following terms and conditions. If you do not agree, please do not use our site.</p>
+        <p>Welcome to 365booksisbet.com! By accessing and using our website, you agree to comply with the following terms and conditions. If you do not agree, please do not use our site.</p>
         
         <h2>1. INTELLECTUAL PROPERTY RIGHTS</h2>
-        <p>All content on our website, including text, graphics, logos, icons, images, and videos, belongs to OnlineCloathsCas.com and is protected by copyright and intellectual property laws. Unauthorized use or reproduction is strictly prohibited.</p>
+        <p>All content on our website, including text, graphics, logos, icons, images, and videos, belongs to 365booksisbet.com and is protected by copyright and intellectual property laws. Unauthorized use or reproduction is strictly prohibited.</p>
         
         <h2>2. PERMISSIBLE USE</h2>
         <p>Our website is intended for personal, non-commercial use only. You may not modify, distribute, or reproduce any content without explicit written permission. Activities that may compromise the functionality or security of our site, such as introducing malware, are prohibited.</p>
@@ -31,10 +31,10 @@ const TermsEn = () => {
         <p>Our website may contain links to external sites not operated by us. We are not responsible for the content or privacy practices of these external sites, so please exercise caution when accessing them.</p>
         
         <h2>8. LIMITATION OF LIABILITY</h2>
-        <p>Neither OnlineCloathsCas.com nor its affiliates are liable for any direct, indirect, incidental, special, or consequential damages arising from your use of our website or reliance on the information provided.</p>
+        <p>Neither 365booksisbet.com nor its affiliates are liable for any direct, indirect, incidental, special, or consequential damages arising from your use of our website or reliance on the information provided.</p>
         
         <h2>9. ACCEPTANCE OF TERMS</h2>
-        <p>These terms are subject to change without prior notice. Your continued use of our site following any updates signifies your acceptance of the revised terms. If you have any questions about these terms, please contact us at <a href="mailto:info@onlinecloathscas.com">info@onlinecloathscas.com</a> or using number +48 22 827 73 82.</p>
+        <p>These terms are subject to change without prior notice. Your continued use of our site following any updates signifies your acceptance of the revised terms. If you have any questions about these terms, please contact us at <a href="mailto:info@365booksisbet.com">info@365booksisbet.com</a> or using number +55 11 91234-5678.</p>
       </div>
       <Footer2 />
     </>
