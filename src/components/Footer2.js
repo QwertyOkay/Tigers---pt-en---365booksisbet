@@ -15,7 +15,7 @@ const Footer2 = () => {
         <div className="footer_category">
           <h3>Links</h3>
           <a href="/" className="footer_footerLink">Home</a>
-          <a href="./contact.html" className="footer_footerLink">Contact Us</a>
+          <a href="./contact" className="footer_footerLink">Contact Us</a>
           
         </div>
       </div>

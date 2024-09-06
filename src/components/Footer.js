@@ -42,7 +42,7 @@ const Footer = () => {
           <a href={getLocalizedPath('/')} className="footer_footerLink">
             {t('footer.home')}
           </a>
-          <a href={getLocalizedPath('/contact.html')} className="footer_footerLink">
+          <a href={getLocalizedPath('/contact')} className="footer_footerLink">
             {t('footer.contact')}
           </a>
         </div>

@@ -22,18 +22,12 @@ const App = () => {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="product/:id" element={<Product />} />
-          <Route path="privacy" element={<Privacy />} />
-          <Route path="terms" element={<Terms />} />
-          <Route path="contact" element={<Contact />} />
         </Route>
 
         {/* English Routes (/en) */}
         <Route path="/en" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="product/:id" element={<Product />} />
-          <Route path="privacy" element={<Privacy />} />
-          <Route path="terms" element={<Terms />} />
-          <Route path="contact" element={<Contact />} />
         </Route>
 
         {/* Redirect /en to /en/ if accessed directly */}
